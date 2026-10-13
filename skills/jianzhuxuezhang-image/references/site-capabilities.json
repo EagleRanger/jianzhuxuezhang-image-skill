@@ -1,0 +1,190 @@
+{
+  "checkedAt": "2026-09-30T05:01:37.649Z",
+  "channel": "站内模型",
+  "models": [
+    {
+      "model": "Seedream 5.0 Pro",
+      "ratios": [
+        "自动",
+        "3:2",
+        "2:3",
+        "16:9",
+        "9:16",
+        "4:3",
+        "3:4",
+        "1:1",
+        "21:9"
+      ],
+      "resolutions": [
+        "1k",
+        "2k"
+      ],
+      "counts": [
+        "1",
+        "2",
+        "3"
+      ],
+      "actual": {
+        "count": "1",
+        "model": "Seedream 5.0 Pro",
+        "ratio": "16:9",
+        "resolution": "2k"
+      }
+    },
+    {
+      "model": "qwen-image-3.0",
+      "ratios": [
+        "自动",
+        "3:2",
+        "2:3",
+        "16:9",
+        "9:16",
+        "4:3",
+        "3:4",
+        "1:1",
+        "21:9"
+      ],
+      "resolutions": [
+        "1k",
+        "2k"
+      ],
+      "counts": [
+        "1",
+        "2",
+        "3"
+      ],
+      "actual": {
+        "count": "1",
+        "model": "qwen-image-3.0",
+        "ratio": "16:9",
+        "resolution": "2k"
+      }
+    },
+    {
+      "model": "Banana Pro",
+      "ratios": [
+        "自动",
+        "3:2",
+        "2:3",
+        "16:9",
+        "9:16",
+        "4:3",
+        "3:4",
+        "1:1",
+        "21:9"
+      ],
+      "resolutions": [
+        "1k",
+        "2k",
+        "4k"
+      ],
+      "counts": [
+        "1",
+        "2",
+        "3"
+      ],
+      "actual": {
+        "count": "1",
+        "model": "Banana Pro",
+        "ratio": "16:9",
+        "resolution": "2k"
+      }
+    },
+    {
+      "model": "Banana2",
+      "ratios": [
+        "自动",
+        "3:2",
+        "2:3",
+        "16:9",
+        "9:16",
+        "4:3",
+        "3:4",
+        "1:1",
+        "21:9"
+      ],
+      "resolutions": [
+        "1k",
+        "2k"
+      ],
+      "counts": [
+        "1",
+        "2",
+        "3"
+      ],
+      "actual": {
+        "count": "1",
+        "model": "Banana2",
+        "ratio": "16:9",
+        "resolution": "2k"
+      }
+    },
+    {
+      "model": "GPT-image-2",
+      "ratios": [
+        "自动",
+        "3:2",
+        "2:3",
+        "16:9",
+        "9:16",
+        "4:3",
+        "3:4",
+        "1:1",
+        "21:9"
+      ],
+      "resolutions": [
+        "1k",
+        "2k"
+      ],
+      "counts": [
+        "1",
+        "2",
+        "3"
+      ],
+      "actual": {
+        "count": "1",
+        "model": "GPT-image-2",
+        "ratio": "16:9",
+        "resolution": "2k"
+      }
+    },
+    {
+      "model": "GPT-image-2.5",
+      "ratios": [
+        "自动",
+        "3:2",
+        "2:3",
+        "16:9",
+        "9:16",
+        "4:3",
+        "3:4",
+        "1:1",
+        "21:9"
+      ],
+      "resolutions": [
+        "1k",
+        "2k"
+      ],
+      "counts": [
+        "1",
+        "2",
+        "3"
+      ],
+      "actual": {
+        "count": "1",
+        "model": "GPT-image-2.5",
+        "ratio": "16:9",
+        "resolution": "2k"
+      }
+    }
+  ],
+  "generationVerified": {
+    "model": "GPT-image-2.5",
+    "resolution": "2k",
+    "ratio": "16:9",
+    "count": 1,
+    "width": 2048,
+    "height": 1152
+  },
+  "otherModels": "configuration only; no generation submitted"
+}
